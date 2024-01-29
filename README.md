@@ -1,23 +1,5 @@
 # COSMOS APP 
 
-## TEAM NAME - COSMOS
-
-| TEAM | SJSU ID |
-| --- | --- |
-| Vineet Jaywant | 017408638 |
-| Aditya Pandey | 017461873 |
-| Atharva Dixit | 016915548 |
-| Kapil Gulani |  017461314 |
-
-## Team Members and Contribution gist:
-
-| TEAM | Contribution |
-| --- | --- |
-| Vineet Jaywant |  Scrum Master, Android Application in Kotlin, API integration - Login, Registration, Dashboard/Home page, Membership Options, Movie Schedules, Book Tickets, Cancel Tickets and Request Refund, Rewards Points System, Location Selection, Discount Price, Database with Mock Data|
-| Aditya Pandey |  Worked on the entire backend component related to User Profile , DB schema model and ticket booking features|
-| Atharva Dixit |  Admin UI in Angular, API integration - Get, Add, Update, Delete, AWS Deployment, AWS RDS (MySql) schema and DB creation, UML Diagrams|
-| Kapil Gulani | Developed backend APIs and worked on the entire backend component related to Admin features(Add/Update/Delete) and Theater employees Analytics logic, API integration  |
-
 ## Tech stack
 Android, Kotlin, Django, AWS-EC2, AWS-RDS(MySQL), Angular
 
