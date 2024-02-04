@@ -150,8 +150,8 @@ Android, Kotlin, Django, AWS-EC2, AWS-RDS(MySQL), Angular
 [Project Journal](https://docs.google.com/document/d/1g-rJZOsTqr15Pmve6omwRd2_0GcZj05kWZLlc52w1Fs/edit?usp=sharing)
 
 ## Team
--Kapil Gulani
--Vineet Jaywant	
--Aditya Pandey	
+- Kapil Gulani
+- Vineet Jaywant	
+- Aditya Pandey	
 
 
