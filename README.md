@@ -1,4 +1,4 @@
-# COSMOS APP 
+# CINEXUS APP 
 
 ## Tech stack
 Android, Kotlin, Django, AWS-EC2, AWS-RDS(MySQL), Angular
