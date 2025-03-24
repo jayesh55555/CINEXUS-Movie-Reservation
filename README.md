@@ -3,13 +3,13 @@
 ## Tech stack
 Android, Kotlin, Django, AWS-EC2, AWS-RDS(MySQL), Angular
 
-<img width="400" alt="Architecture" src="https://github.com/kapilgulani/CINEXUS/blob/main/assets/Homepage.png">
+<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
+  <img src="https://github.com/kapilgulani/CINEXUS/blob/main/assets/Homepage.png" style="width: 45%; margin: 10px;">
+  <img src="https://github.com/kapilgulani/CINEXUS/blob/main/assets/Moviepage.png" style="width: 45%; margin: 10px;">
+  <img src="https://github.com/kapilgulani/CINEXUS/blob/main/assets/Seatselection.png" style="width: 45%; margin: 10px;">
+  <img src="https://github.com/kapilgulani/CINEXUS/blob/main/assets/ticket" style="width: 45%; margin: 10px;">
+</div>
 
-<img width="400" alt="Architecture" src="https://github.com/kapilgulani/CINEXUS/blob/main/assets/Moviepage.png">
-
-<img width="400" alt="Architecture" src="https://github.com/kapilgulani/CINEXUS/blob/main/assets/Seatselection.png">
-
-<img width="400" alt="Architecture" src="https://github.com/kapilgulani/CINEXUS/blob/main/assets/ticket">
 
 
 ## Design Choices:
