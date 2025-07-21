@@ -75,22 +75,6 @@ React, Django, AWS-EC2, AWS-RDS(MySQL), Angular
 - **User Experience Testing:**
     - Regular testing of both the React web interface and Angular admin portal provided insights for user experience optimization and functionality refinement.
 
-## Architecture Diagram
-
-<img width="1796" alt="Architecture" src="https://github.com/gopinathsjsu/team-project-cosmos/assets/144189794/61cad8e2-320e-4972-a4bc-95b7fd8ab02f">
-
-## Usecase Diagram
-
-<img width="1010" alt="Screenshot 2023-12-05 at 11 34 19 PM" src="https://github.com/gopinathsjsu/team-project-cosmos/assets/144189794/9f2ca739-501c-426b-91fe-42e9659441ec">
-
-## Deployment Diagram
-
-<img width="1466" alt="Screenshot 2023-12-05 at 8 39 16 PM" src="https://github.com/gopinathsjsu/team-project-cosmos/assets/144189794/3e4c44da-478f-4bb6-b1f4-f2896ed4a11a">
-
-## Sequence Diagram
-
-![Screenshot (64)](https://github.com/gopinathsjsu/team-project-cosmos/assets/144189794/7e64a6c1-39fe-491c-802d-b82e903e93d2)
-
 # Feature Set
 
 1. **Home/Landing Page:**
