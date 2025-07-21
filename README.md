@@ -1,7 +1,7 @@
 # MOVIE RESERVATION APP 
 
 ## Tech stack
-Android, Kotlin, Django, AWS-EC2, AWS-RDS(MySQL), Angular
+React, Django, AWS-EC2, AWS-RDS(MySQL), Angular
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
   <img src="https://github.com/kapilgulani/CINEXUS/blob/main/assets/Homepage.png" style="width: 40%; margin: 30px;">
@@ -11,11 +11,10 @@ Android, Kotlin, Django, AWS-EC2, AWS-RDS(MySQL), Angular
 </div>
 
 
-
 ## Design Choices:
 
 ### Application Components:
-- Frontend: Native Android app for members, an Angular app for theater employees, ensuring a tailored experience for each user.
+- Frontend: React-based web and mobile app for members, an Angular app for theater employees, ensuring tailored experience for each user.
 - Backend: Django for the main backend, providing a robust and scalable framework.
 - Database: AWS RDS MySQL for data storage, which is a reliable choice with the ability to scale.
 - Cloud Hosting: AWS EC2 instances with Auto Scaling and Load Balancer, ensuring high availability and scalability.
@@ -49,39 +48,32 @@ Android, Kotlin, Django, AWS-EC2, AWS-RDS(MySQL), Angular
 - Database with Mock Data: Allows testing and development without affecting the production environment.
 
 ### Technology Stack:
-- Kotlin, Django, Angular: A diverse but well-integrated stack, covering both mobile and web development needs.
+- React, Django, Angular: A diverse but well-integrated stack, covering both mobile and web development needs.
 
 ### Additional Considerations:
 - Location-Based Functionality: Allowing users to select locations for viewing schedules aligns with a multi-location membership model.
 - Discount Configuration: Offering flexibility with discount prices for specific showtimes contributes to business strategy.
 
-## XP Core Values Maintained by Team
+## Development Methodology
 
-### Communication <br>
+### Communication
 
-- **Team Collaboration:** <br>
+- **Project Planning:**
+    - Regular development iterations facilitated systematic progress tracking and milestone achievement.
+    - Cross-Functional Integration: The project involved different technologies (React for frontend, Django for the backend, Angular for the employee section), requiring careful coordination to ensure smooth integration and alignment between different components.
+    - Clear Documentation: Thorough documentation of APIs, database schemas, and other project components was essential for maintainable code and future enhancements.
 
-    - Intra-Team Communication: Regular team meetings, whether virtual or in-person, facilitated open communication channels. This allowed team members to discuss progress, challenges, and ideas freely.
-    - Cross-Functional Collaboration: As your project involved different technologies (Kotlin for Android, Django for the backend, Angular for the employee section), effective communication was crucial to ensure smooth integration and alignment between different components.
-    - Clear Documentation: Thorough documentation of APIs, database schemas, and other project components was crucial for effective communication. This made it easier for team members to understand and work on different aspects of the project.
-
-### Feedback <br>
+### Implementation Approach
 
 - **Iterative Development:**
+    - Continuous feature iterations and testing allowed for early identification and resolution of issues.
+    - This iterative approach ensured that the project met all specified requirements and performance standards.
 
-    - Continuous Feedback Loops: Regular iterations and demonstrations of features allowed stakeholders, including the client, to provide feedback early in the development process. This iterative approach ensured that the project aligned closely with the client's expectations.
+- **Code Quality:**
+    - Comprehensive code review processes maintained high code quality standards and identified potential improvements early in development.
 
-- **Code Reviews:**
-
-    - Peer Code Reviews: Implementing a process of peer code reviews allowed team members to share knowledge, identify potential issues, and maintain code quality. This feedback loop was instrumental in catching and addressing issues early on.
-
-- **User Testing:**
-
-    - User Feedback Sessions: If applicable, conducting user testing sessions for the Android app and web interfaces provided valuable insights. Direct feedback from potential end-users helped refine the user experience and fix any usability issues.
-    
-- **Retrospectives:**
-
-    - Regular Retrospectives: Holding retrospectives at the end of each iteration or milestone encouraged the team to reflect on what went well and what could be improved. This continuous improvement mindset allowed the team to adapt and enhance their processes.
+- **User Experience Testing:**
+    - Regular testing of both the React web interface and Angular admin portal provided insights for user experience optimization and functionality refinement.
 
 ## Architecture Diagram
 
@@ -89,17 +81,18 @@ Android, Kotlin, Django, AWS-EC2, AWS-RDS(MySQL), Angular
 
 ## Usecase Diagram
 
-<img width="1010" alt="Screenshot 2023-12-05 at 11 34 19 PM" src="https://github.com/gopinathsjsu/team-project-cosmos/assets/144189794/9f2ca739-501c-426b-91fe-42e9659441ec">
+<img width="1010" alt="Screenshot 2023-12-05 at 11 34 19 PM" src="https://github.com/gopinathsjsu/team-project-cosmos/assets/144189794/9f2ca739-501c-426b-91fe-42e9659441ec">
 
 ## Deployment Diagram
 
-<img width="1466" alt="Screenshot 2023-12-05 at 8 39 16 PM" src="https://github.com/gopinathsjsu/team-project-cosmos/assets/144189794/3e4c44da-478f-4bb6-b1f4-f2896ed4a11a">
+<img width="1466" alt="Screenshot 2023-12-05 at 8 39 16 PM" src="https://github.com/gopinathsjsu/team-project-cosmos/assets/144189794/3e4c44da-478f-4bb6-b1f4-f2896ed4a11a">
 
 ## Sequence Diagram
 
 ![Screenshot (64)](https://github.com/gopinathsjsu/team-project-cosmos/assets/144189794/7e64a6c1-39fe-491c-802d-b82e903e93d2)
 
-# Feature set
+# Feature Set
+
 1. **Home/Landing Page:**
    - Provides an overview of theaters, locations, current movie schedules, and upcoming movies. Serves as the entry point for users.
 
@@ -148,19 +141,5 @@ Android, Kotlin, Django, AWS-EC2, AWS-RDS(MySQL), Angular
 16. **Database with Mock Data:**
     - Creates a database with mock data for theaters, locations, and schedules, facilitating testing and development without impacting the production environment.
 
-
-## UI Wireframes
-[Figama](https://www.figma.com/file/aRjAZoxh7Zjh6l7OtjiEeE/Cosmos-App?type=design&node-id=0%3A1&mode=design&t=mnQjoabuVsWQsD4U-1)
-
-## Sprint BurnDown Chart
-[Sprint BurnDown Chart](https://docs.google.com/spreadsheets/d/1ZcI8HAixcSnnApqxAlzSDZHEiYxEO6roEYlSWF8YDKY/edit?usp=sharing)
-
-## Project Journal
-[Project Journal](https://docs.google.com/document/d/1g-rJZOsTqr15Pmve6omwRd2_0GcZj05kWZLlc52w1Fs/edit?usp=sharing)
-
-## Team
-- Kapil Gulani
-- Vineet Jaywant	
-- Aditya Pandey	
-
-
+## Developer
+- Jayesh Gulani
